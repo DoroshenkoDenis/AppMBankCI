@@ -27,9 +27,6 @@
       "balance": {
         "type": "integer",
         "default": 0
-      },
-      "currency": {
-        "type": "string"
       }
     }
   }
